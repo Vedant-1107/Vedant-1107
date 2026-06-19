@@ -55,8 +55,8 @@ Built a real-time license plate recognition system using image preprocessing, co
 ### [FlickFinder](https://github.com/Vedant-1107/FlickFinder)
 A web-based movie recommendation system built with Flask, AngularJS, and TMDb API. It recommends similar movies based on a given title and displays detailed information including poster, plot, release date, and more.
 
-### [CodeVerse - Github Repository Visualizer](https://github.com/Vedant-1107/CodeVerse)
-Built an interactive visualization tool that maps GitHub repository structures as dynamic radial trees using D3.js.
+### [GitBud - Github Repository Visualizer](https://github.com/Vedant-1107/GitBud)
+GitBud is an AI-powered GitHub repository visualizer that helps developers explore project structures, analyze code, detect bugs, and generate intelligent repository insights.
 
 ---
 
