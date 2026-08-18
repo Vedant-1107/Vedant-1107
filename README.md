@@ -208,7 +208,20 @@ A real-time vehicle license plate recognition system using **image preprocessing
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-1107/Vedant-1107/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Vedant-1107/Vedant-1107/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Vedant-1107/Vedant-1107/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Vedant-1107/Vedant-1107/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 > If the snake doesn't appear, the GitHub Action needs to be configured in the profile repository.
