@@ -34,12 +34,6 @@
 
 ## 🧑‍💻 About Me
 
-```text
-Computer Engineering Student  →  AI / ML  →  Full-Stack Development
-                                      ↓
-                         Building useful real-world products
-```
-
 I'm a **final-year Computer Engineering student from Pune, India**, interested in building intelligent and scalable software.
 
 My interests sit at the intersection of:
