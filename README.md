@@ -1,7 +1,7 @@
 # Hi there, I’m **Vedant Salunkhe**  
 *Computer Engineering Student | AI / ML Enthusiast | Full-Stack Web Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Salunkhe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-salunkhe-6961b5305) [![HackerRank](https://img.shields.io/badge/HackerRank-vedantsalunkhe11-green?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vedantsalunkhe11) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-white?style=flat&logo=vercel&logoColor=black)](https://portfolio-phi-ten-68.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant_Salunkhe-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-salunkhe-6961b5305) [![HackerRank](https://img.shields.io/badge/HackerRank-vedantsalunkhe11-green?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vedantsalunkhe11) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-white?style=flat&logo=vercel&logoColor=black)](https://portfolio-smoky-nu-51.vercel.app)  
 
 ---
 
