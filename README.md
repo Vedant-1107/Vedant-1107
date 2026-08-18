@@ -166,12 +166,12 @@ A real-time vehicle license plate recognition system using **image preprocessing
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Vedant-1107&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="./profile/stats.svg"
     height="180"
     alt="Vedant's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-1107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Top Languages"
   />
