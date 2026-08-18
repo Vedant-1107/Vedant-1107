@@ -179,8 +179,9 @@ A real-time vehicle license plate recognition system using **image preprocessing
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-1107&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
+    width="500"
   />
 </p>
 
