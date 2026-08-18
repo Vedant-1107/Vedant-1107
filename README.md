@@ -198,7 +198,7 @@ A real-time vehicle license plate recognition system using **image preprocessing
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Vedant-1107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    src="./profile/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
